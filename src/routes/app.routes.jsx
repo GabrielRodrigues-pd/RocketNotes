@@ -1,6 +1,5 @@
 import {Routes, Route} from 'react-router-dom'
 
-
 import { Profile } from '../pages/Profile'
 import { New } from '../pages/New'
 import {Details} from '../pages/Details'
